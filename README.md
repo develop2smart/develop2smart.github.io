@@ -1,2 +1,3 @@
 # develop2smart.github.io
-My portfolio Website
+
+Portfolio website for brucejin07525@gmail.com
